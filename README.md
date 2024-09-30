@@ -1,5 +1,3 @@
-Pygame guessing number demo using module pygame(create view on screen) 
-
 Game Screen View 1: Main Menu
 ![Screenshot 2024-01-11 152631](https://github.com/chaubanban/guessnumberpygame/assets/112841027/55637c48-f52d-437f-96e2-0a7b702ae877)
 Game Screen View 2: Rules 
